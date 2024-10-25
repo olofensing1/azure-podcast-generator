@@ -6,6 +6,8 @@ categories:
   - title: ":boom: Breaking Changes"
     label: "breaking"
   - title: ":rocket: Features"
+    label: "feature"
+  - title: ":racehorse: Enhancements"
     label: "enhancement"
   - title: ":beetle: Fixes"
     label: "bug"
@@ -24,9 +26,12 @@ version-resolver:
   minor:
     labels:
       - 'minor'
+      - 'feature'
   patch:
     labels:
       - 'patch'
+      - 'bug'
+      - 'enhancement'
   default: patch
 template: |
   ## What's changed
