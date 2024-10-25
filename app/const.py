@@ -19,6 +19,8 @@ AZURE_HD_VOICES = {
     "Emma": "en-US-Emma2:DragonHDLatestNeural",
     "Jenny": "en-US-Jenny:DragonHDLatestNeural",
     "Steffan": "en-US-Steffan:DragonHDLatestNeural",
+    "FennaNL": "nl-NL-FennaNeural",
+    "ArnoudBE": "nl-BE-ArnaudNeural"
     # "ja-JP-Masaru": "ja-JP-Masaru:DragonHDLatestNeural",
     # "zh-CN-Xiaochen": "zh-CN-Xiaochen:DragonHDLatestNeural",
 }
